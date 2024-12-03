@@ -1,2 +1,2 @@
 # IBM-ANALYST-CAPSTONE-PROJECT
-You can see my project to final submission
+You can view the final submission for my project
